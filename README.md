@@ -1,4 +1,4 @@
-#FastMath
+# FastMath
 
 The purpose of the fast math functions is to allow the approximation of a sine wave or cosine wave on micro-controllers.
 
